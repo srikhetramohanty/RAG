@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+pypdf
+transformers
+accelerate
+bitsandbytes
+pandas
