@@ -8,6 +8,8 @@
 
 ## b) Architecture overview
 
+![Architecture Overview](rag_2.png)
+
 **High-level flow**
 1. **Ingest docs** (PDF / TXT)
 2. **Chunk text** into overlapping segments
