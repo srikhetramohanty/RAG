@@ -4,7 +4,7 @@
 
 1. This repository was created on colab using models from Huggingface (needs GPU). A100 is used for best results in terms of latency. Just install the requirements using "pip install -r requirements.txt" or run the first cell in the rag_experiments.ipynb file. 
 2. use rag_experiments to perform evaluation on a gold dataset (to pick best configuration of llm, embedding model, retrieval parameters) and inference for any custom question
-3. Currently used documents are present in this [drive folder](https://drive.google.com/drive/folders/1PiRrFQYI5kswCLHZsFbnDfRHtmwIgJ-k?usp=drive_link)
+3. Currently used documents are present in this [drive folder](https://drive.google.com/drive/folders/1PiRrFQYI5kswCLHZsFbnDfRHtmwIgJ-k?usp=sharing)
 
 ## b) Architecture overview
 
